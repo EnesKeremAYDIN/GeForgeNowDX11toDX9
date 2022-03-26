@@ -2,7 +2,7 @@
 [![Discord](https://discord.com/api/guilds/817779288296128512/widget.png)](https://discord.gg/fJGtmKbuQB)
 
 # GeForgeNowDX11toDX9
-Downgrade GeForge Now DX version from DX11 to DX9
+If GeForce Now shuts down after launching the game or you want to downgrade the DX version of GeForce Now, you're in the right place.
 
 # Usage
 
