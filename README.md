@@ -3,7 +3,7 @@ Downgrade GeForge Now DX version from DX11 to DX9
 
 # Usage
 
-## 1st way:
+1st way:
 1. Download this GitHub repo.
 2. Extract the downloaded file from the zip.
 3. Run the Windows file explorer.
@@ -12,7 +12,7 @@ Downgrade GeForge Now DX version from DX11 to DX9
 6. Put the "!GeForgeNowDX11toDX9.ps1" file in the directory it directs you to and run it.
 7. Right click on the "!GeForgeNowDX11toDX9.ps1" file, click create shortcut and put the shortcut file on the desktop. Run the shortcut file after every update of NVIDIA GeForce Now.
 
-## 2nd way:
+2nd way:
 1. Download this GitHub repo.
 2. Extract the downloaded file from the zip.
 3. Click the Windows logo or the search bar.
