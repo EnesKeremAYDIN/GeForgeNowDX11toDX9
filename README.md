@@ -4,6 +4,10 @@
 # GeForgeNowDX11toDX9
 If GeForce Now shuts down after launching the game or you want to downgrade the DX version of GeForce Now, you're in the right place.
 
+# Why can it be used?
+
+You can use it if you encounter problems such as a black screen error or startup problem when starting GeForce Now. It solved my problem.
+
 # Usage
 
 1st way:
