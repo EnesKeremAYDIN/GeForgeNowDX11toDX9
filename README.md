@@ -20,8 +20,8 @@ A PowerShell script to adjust DirectX settings from DirectX 11 to DirectX 9, imp
    ```
    and press Enter.
    - ❗️If you encounter an error, try the 2nd way.
-5. **Place** the `!GeForgeNowDX11toDX9.ps1` file in the folder that opens and **run it**.
-6. *(Optional)* Right-click `!GeForgeNowDX11toDX9.ps1`, select **Create Shortcut**, and move the shortcut to your desktop. **Run the shortcut** after each NVIDIA GeForce Now update.
+5. **Place** the `GeForgeNowDX11toDX9.ps1` file in the folder that opens and **run it**.
+6. *(Optional)* Right-click `GeForgeNowDX11toDX9.ps1`, select **Create Shortcut**, and move the shortcut to your desktop. **Run the shortcut** after each NVIDIA GeForce Now update.
 
 ### 2nd Way:
 
@@ -32,12 +32,12 @@ A PowerShell script to adjust DirectX settings from DirectX 11 to DirectX 9, imp
 5. Click **Open File Location**.
 6. In the folder that opens, right-click the shortcut named **NVIDIA GeForce Now** and select **Properties**.
 7. In the Properties window, click **Open File Location**.
-8. **Place** the `!GeForgeNowDX11toDX9.ps1` file in this directory and **run it**.
-9. *(Optional)* Right-click `!GeForgeNowDX11toDX9.ps1`, select **Create Shortcut**, and move the shortcut to your desktop. **Run the shortcut** after each NVIDIA GeForce Now update.
+8. **Place** the `GeForgeNowDX11toDX9.ps1` file in this directory and **run it**.
+9. *(Optional)* Right-click `GeForgeNowDX11toDX9.ps1`, select **Create Shortcut**, and move the shortcut to your desktop. **Run the shortcut** after each NVIDIA GeForce Now update.
 
 ## Files
 
-- **`!GeForgeNowDX11toDX9.ps1`**: The PowerShell script that performs DirectX version adjustments.
+- **`GeForgeNowDX11toDX9.ps1`**: The PowerShell script that performs DirectX version adjustments.
 
 ## Requirements
 
