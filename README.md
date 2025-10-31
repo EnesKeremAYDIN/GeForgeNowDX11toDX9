@@ -1,6 +1,6 @@
 # GeForgeNow DX11 to DX9 Converter
 
-A PowerShell script to adjust DirectX settings from DirectX 11 to DirectX 9, improving compatibility with certain applications or older systems within the GeForce Now environment.
+PowerShell script to adjust DirectX settings from DirectX 11 to DirectX 9, improving compatibility with certain applications or older systems within the GeForce Now environment.
 
 ## Features
 
